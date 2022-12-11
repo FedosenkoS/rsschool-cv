@@ -6,8 +6,9 @@
 +*GitHub:* FedosenkoS
 +*Discord:* Sviatlana#5847
 *****
-##About me
+##**About me**
 I am 35 and I work in the field of vehicle certification. I've been wanting to try myself in the IT field for a long time. Now I have enough time to realize my deferred desires)))
+
 ###*My strengths:*
 1.Fast Learning
 2.Strong motivation
